@@ -15,8 +15,8 @@ Dentro de este repositorio se encontraran dos  cosas:
   
   
       #Aqui hay que poner los directorios de entrenamiento y validación
-      train_data_dir ='/Users/theglox/Desktop/Desktop/UD/teleinformatica/tele/tutorial/6 RECONOCIMIENTO FACIAL/data2/train'
-      validation_data_dir='/Users/theglox/Desktop/Desktop/UD/teleinformatica/tele/tutorial/6 RECONOCIMIENTO FACIAL/data2/validation'
+      train_data_dir ='/Users/theglox/Desktop/Desktop/UD/REDES1/tele/tutorial/6 RECONOCIMIENTO FACIAL/data2/train'
+      validation_data_dir='/Users/theglox/Desktop/Desktop/UD/REDES1/tele/tutorial/6 RECONOCIMIENTO FACIAL/data2/validation'
       
   <ul>
         <li> <b>epoch: </b> El Numero de etapas que quiera que tenga su red</li>
