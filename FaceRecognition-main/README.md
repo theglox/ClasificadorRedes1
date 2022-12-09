@@ -28,13 +28,13 @@ a continuacion podra ver un ejemplo de las graficas que nos dara este archivo un
 Aqui se  encuentran las curvas en las pérdidas
 
 
-![Screenshot](perdidas.png)
+![Screenshot](FaceRecognition-main/perdidas.png)
 
 
 Aqui se  encuentran las curvas de precisión
 
 
-![Screenshot](precision.png)
+![Screenshot](FaceRecognition-main/precision.png)
 
 
    <b>II)haarcascade_frontalface_default.xml </b>es un archivo  que cuenta con el modelo preentrenado de haarcascade proporcionado por opencv, no hace falta modificar nada dentro de este archivo 
